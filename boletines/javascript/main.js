@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function() {
             content.classList.add("animate__animated");
 
             setTimeout(function(){
-                location.href ="/cristianbrunone.io/boletines";
+                location.href ="cristianbrunone.io/boletines";
             },600);
 
             return false;
