@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function() {
             content.classList.add("animate__animated");
 
             setTimeout(function(){
-                location.href ="/";
+                location.href ="/boletines";
             },600);
 
             return false;
